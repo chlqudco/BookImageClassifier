@@ -8,5 +8,6 @@
 
 ## 예시 ##
 - ![KakaoTalk_20221130_154618381](https://user-images.githubusercontent.com/68932465/204821685-161b22ba-27a9-4410-b33b-9e135fa7ce88.jpg)
-  ![KakaoTalk_20221130_154618381_01](https://user-images.githubusercontent.com/68932465/204821689-dffd471d-da3d-445d-a1bf-fde01499c77d.jpg)
-  ![KakaoTalk_20221130_154618381_02](https://user-images.githubusercontent.com/68932465/204821693-2398ceab-292f-42f5-a811-bc9ec9817f9a.jpg)
+ ![KakaoTalk_20221130_154618381_01](https://user-images.githubusercontent.com/68932465/204822170-cdfd3def-dadb-4b10-857f-8e3324645dcf.jpg)
+ ![KakaoTalk_20221130_154618381_02](https://user-images.githubusercontent.com/68932465/204822176-d204cf72-6322-4d46-ba2e-71dbf690a419.jpg)
+
